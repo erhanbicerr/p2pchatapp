@@ -7,8 +7,8 @@ Online users will be seen on the chat client. User may choose one of the online 
 
 Criterias for a successful chat session:
 
-1 - Both users' service listener and service advertiser must be running.
-2 - Both users must see each other's name on their service listener.
+1 - Both users' service listener and service advertiser must be running.  
+2 - Both users must see each other's name on their service listener.  
 3 - Both users' chat listener and chat client must be running.
 
 After all of these, user can use his/her chat client to start a chat session with the other user.
